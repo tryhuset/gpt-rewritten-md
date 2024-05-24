@@ -1,4 +1,3 @@
-```markdown
 For å sikre økte, stabile leveranser av kvalitetsjordbær i et stadig skiftende klima, måtte mer av produksjonen flyttes over i plasttunneler. Dette prosjektet utgjorde et viktig bidrag for å fremme produksjon i plasttunneler blant norske jordbærprodusenter. Prosjektet ble støttet av både Grofondet og Norges forskningsråd.
 
 **Formål:**
@@ -9,7 +8,7 @@ For å sikre økte, stabile leveranser av kvalitetsjordbær i et stadig skiftend
 
 Gjødslings- og vanningsforsøk ble gjennomført i ulike dyrkingssystemer (planter i jord, i renner og på 'table-top') i plasttunnel. Styresystemer og arbeidsbesparende teknologi ble utviklet, og beslutningsverktøy for optimal plantevekst i ulike utviklingsfaser ble vektlagt. Det ble utviklet grunnleggende og praktisk kunnskap om vekst og utvikling hos nye sorter, med hovedvekt på remonterende typer dyrket i plasttunneler.
 
-Mekanismer for klimakontroll av vekst, blomster- og kviledanning ble undersøkt ved forsøk i kontrollert klima og i felt. Avlingspotensialet og bærkvaliteten ble dokumentert i feltforsøk. Det ble utviklet både grunnleggende og praktisk kunnskap om bruk av ultrafiolett (UV) lys til bekjempelse av gråskimmel i jordbær, basert på erfaringer med bekjempelse av mjøldogg og innledende arbeid med gråskimmel. 
+Mekanismer for klimakontroll av vekst, blomster- og kviledanning ble undersøkt ved forsøk i kontrollert klima og i felt. Avlingspotensialet og bærkvaliteten ble dokumentert i feltforsøk. Det ble utviklet både grunnleggende og praktisk kunnskap om bruk av ultrafiolett (UV) lys til bekjempelse av gråskimmel i jordbær, basert på erfaringer med bekjempelse av mjøldogg og innledende arbeid med gråskimmel.
 
 Et konsept for behandling av småplanter av jordbær med varm vanndamp ble utviklet. Basert på resultatene fra dette prosjektet og tidligere erfaringer, ble det utviklet rutiner for klimaregulering, næringstilførsel, vanning, plantevern, etc., som ble tatt i bruk i et samarbeid mellom dyrkere, rådgivere og forskere. Storskala testing pågikk hos et etablert nettverk av fem produsenter i Viken-området.
 
@@ -34,9 +33,9 @@ Anita Sønsteby, NIBIO Apelsvoll
 **Foto:**
 
 NIBIO
-```
 
 ### Endringer:
+
 - Reverterte teksten til fortid der det var nødvendig.
 - Justerte enkelte setninger for å øke lesbarheten.
 - Fjernet overflødig tekst for å opprettholde en profesjonell tone.

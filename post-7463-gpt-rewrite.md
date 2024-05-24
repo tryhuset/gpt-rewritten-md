@@ -1,4 +1,3 @@
-```markdown
 Tracker var et verktøy som målte innsatsfaktorer og knyttet dokumentasjon i produksjonen til den enkelte plante. Ved å knytte kostnader og forbruk til den enkelte plante, fikk man et langt bedre beslutningsgrunnlag for ulike tiltak, samt oversikt over forbruk av innsatsmidler og til slutt kostnader per produsert enhet.
 
 Prosjektet ble startet i 2007 av produsentene Anders Hørthe, Simen Myhrene og Fredrik Trolsrud.
@@ -22,9 +21,9 @@ Fredrik Trolsrud
 **Foto:**
 
 Fredrik Trolsrud
-```
 
 ### Endringer:
+
 1. Byttet tittelen "Bedre kostnadskontroll" til riktig formatering for å tilpasse det profesjonelle tonet.
 2. Endret verbene til fortidsform for å reflektere fullførte handlinger.
 3. Rettet små grammatiske feil for bedre flyt og forståelse.

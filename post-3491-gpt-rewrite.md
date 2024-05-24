@@ -1,4 +1,3 @@
-```markdown
 I løpet av de siste årene har bruken av søtpotet økt fra noen få tonn per år til en import på 4 000 tonn i året. Grofondet støttet et prosjekt som så på muligheten for å dyrke søtpotet i Norge. Søtpotet (_Ipomoea batatas_) regnes som en rotgrønnsak på lik linje med jordskokk, og har derfor et bredere bruksområde enn potet (_Solanum tuberosum_). Søtpotet på det norske markedet importeres hovedsakelig fra USA.
 
 **Formål:**
@@ -24,9 +23,9 @@ Erling Stubhaug, NIBIO Landvik
 **Foto:**
 
 NIBIO
-```
 
 **Endringer:**
+
 1. Endret teksten til fortid der det var nødvendig.
 2. Justerte grammatikk og setningsstruktur for klarere formidling.
 3. Fjernet noen repeterende ord og uttrykk for å gjøre teksten mer konsis.
