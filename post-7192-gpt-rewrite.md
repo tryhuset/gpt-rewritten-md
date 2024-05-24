@@ -1,43 +1,24 @@
-# Konferansen som setter tomatproduksjon på kartet
+### Redigert tekst
+---
 
-I forbindelse med kommunesammenslåingen på Vestlandet vil Stavanger og Jæren fra 2020 ha opp mot 90 % av tomatproduksjonen i Norge. Derfor skal Tomatfestivalen i Finnøy løftes fra å være en lokal fagdag til å bli en nasjonal konferanse.
+I forbindelse med kommunesammenslåingen på Vestlandet fikk Stavanger og Jæren fra 2020 opp mot 90% av tomatproduksjonen i Norge. I den sammenheng løftet Tomatfestivalen i Finnøy seg fra å være en lokal fagdag til å bli en nasjonal konferanse.
 
-## Målsettinger
+Målsettingen med arrangementet var merkevarebygging og å sette tomatprodusentene på kartet. De skulle være spydspissen, og i førersetet, for videre utvikling innen tomatproduksjon i Norge. Hovedfokuset for konferansen var sirkulærøkonomi og bærekraft. Bransjen møte stadig økte krav om grønn energi og miljøteknologi. Konferansen ble gjennomført med foredrag om energi – oppvarming og belysning, miljøteknologi, diskusjoner rundt CO2, og økonomi. 
 
-Hovedmålene med arrangementet er å bygge merkevaren og sette tomatprodusentene på kartet. Vi ønsker å være i førersetet for videre utvikling innen tomatproduksjon i Norge. Konferansens hovedfokus vil være sirkulærøkonomi og bærekraft, i tråd med bransjens økende krav til grønn energi og miljøteknologi.
+Målgruppen for konferansen i 2019 var gartnere/tomatprodusenter i Rogaland, grossister/salgsapparatet, representanter for kommunene i regionen, Rogaland Fylkeskommune, landbrukssjefen for fylkeskommunen, landbruksministeren og politikere, leverandører og samarbeidspartnere. Konferansen skulle være med å løfte næringen og oppmuntre til videre satsing.
 
-## Konferansens Innhold
+> _Vi ønsket å bidra til økt produksjon, til forlenget sesong, og til at markedet øker salget av norskproduserte tomater. Vi antok at andelen på tidspunktet var 30%. Samtidig var vi veldig klar over at vi hadde store og viktige konkurrenter_, sa prosjektleder Tove Sivertsen fra Ryfylke Næringshage.
 
-Konferansen vil inneholde foredrag om:
+Prosjektet var treårig og tildelt beløp var kr. 150.000.
 
-- Energi – oppvarming og belysning
-- Miljøteknologi
-- Diskusjoner rundt CO2 og økonomi
-
-## Målgruppen
-
-Målgruppen for konferansen i 2019 inkluderer:
-- Gartnerier og tomatprodusenter i Rogaland
-- Grossister og salgsapparatet
-- Representanter fra kommunene i regionen
-- Rogaland fylkeskommune
-- Landbrukssjefen for fylkeskommunen
-- Landbruksministeren og andre politikere
-- Leverandører og samarbeidspartnere
-
-Konferansen skal bidra til å løfte næringen og oppmuntre til videre satsing. – _Vi ønsker å bidra til økt produksjon, forlenget sesong og at markedet øker salget av norskproduserte tomater. Vi antar at denne andelen p.t. er 30 %. Samtidig er vi veldig klar over at vi har store og viktige konkurrenter_, sier prosjektleder Tove Sivertsen fra Ryfylke Næringshage.
-
-## Prosjektinformasjon
-
-Prosjektet er treårig og har blitt tildelt et beløp på kr. 150.000. Prosjektleder er Tove Sivertsen fra Ryfylke Næringshage.
+##### Prosjektleder:
+**Tove Sivertsen**, Ryfylke Næringshage
 
 ---
 
 ### Endringer
-
-1. La til en overskrift for å tydeliggjøre temaet.
-2. Korrigerte kapitalisering på ord for enhetlig stil (f.eks. "Merkevarebygging").
-3. Delt paragrafen opp i flere seksjoner med passende overskrifter.
-4. Gjorde setningene mer dynamiske og flytende.
-5. Oppdaterte språket for å forbedre profesjonaliteten.
-6. La til punktlister for å forbedre lesbarheten og klarheten.
+1. Endret tid fra fremtid og nåtid til fortid for konsistens.
+2. Forbedret grammatikk og setningsstruktur for flyt.
+3. Benyttet sitatblokk for direkte sitat fra prosjektlederen for økt lesbarhet.
+4. Lagt til underoverskrift for å markere prosjektleders navn tydeligere.
+5. Justerte språket for å gi teksten en profesjonell og entusiastisk tone uten å virke påtrengende.

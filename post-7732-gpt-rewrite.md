@@ -1,28 +1,29 @@
 ### Fremtidens matproduksjon
 
-Fremtidens matproduksjon vil bli påvirket av klimaendringene, også i Norge. En stor fordel med dyrking i veksthus er at produsenter blir mindre avhengige av værforhold. Veksthus muliggjør kontinuerlig produksjon under kontrollerte forhold, og produksjonsmengden per kvadratmeter kan mangedobles. Dermed kan veksthus bidra til matforsyningssikkerheten både nasjonalt og globalt.
+Fremtidens matproduksjon ble påvirket av klimaendringene, også i Norge. Fordelen med dyrking i veksthus var blant annet at produsenter ble mer uavhengige av værforholdene. Veksthus muliggjorde en kontinuerlig produksjon under kontrollerte forhold, og produksjonsmengden per kvadratmeter kunne mangedobles. Veksthus bidro dermed til matforsyningssikkerhet både nasjonalt og globalt.
 
-Drift av veksthus er generelt energikrevende, med et energiforbruk som kan utgjøre opptil 30-40 % av de totale produksjonskostnadene. Høye driftskostnader, suboptimal energieffektivitet og kontroll av veksthusklimaet er faktorer som påvirker både produktiviteten og lønnsomheten innen veksthusdrift. I tillegg har bruken av fossile brensler som energikilde ført til unødvendige CO2-utslipp. For å øke lønnsomheten og redusere karbonavtrykket ved veksthusdrift er det derfor avgjørende for næringen å skifte til mer energieffektive og klimavennlige produksjonsmetoder.
+Drift av veksthus var generelt energikrevende, med et energiforbruk som kunne utgjøre opptil 30-40 % av de totale produksjonskostnadene. Høye driftskostnader, suboptimal energieffektivitet og kontroll av veksthusklimaet var faktorer som påvirket produktiviteten og lønnsomheten for veksthus. I tillegg førte bruk av fossile brensler som energikilde til at veksthus slapp ut mer CO2 enn nødvendig til atmosfæren. For å øke lønnsomheten og redusere karbonavtrykket ved veksthusdrift, var det derfor avgjørende for næringen å foreta et skifte mot enda mer energieffektive og klimavennlige produksjonsmetoder.
 
-Viken Gartneri på Frosta og Snarum Gartneri i Lier har nylig installert vertikale produksjonsanlegg i kombinasjon med tradisjonelle veksthus. Hovedutfordringen ved disse hybridgartneriene er å etablere en balansert og effektiv bruk av overskuddsvarmen fra vertikalanleggene, samtidig som tilfredsstillende avfuktning i et semilukket veksthus ivaretas.
+Viken Gartneri på Frosta og Snarum Gartneri i Lier hadde nylig installert vertikale produksjonsanlegg i kombinasjon med tradisjonelle veksthus. Hovedutfordringen ved disse hybridgartneriene var å få til en balansert og god bruk av overskuddsvarmen fra vertikalanleggene, samtidig som de ivaretok tilfredsstillende avfuktning i et semilukket veksthus.
 
-I dette prosjektet vil SINTEF, sammen med de to gartneriene, gjennom casestudier foreta en helhetlig gjennomgang av energi- og varmebehovet ved de to hybride veksthusene. Dette innebærer modellering og simulering av veksthusene, analyser for bruk av varmepumpesystemer og termisk energilagring, samt utredning av potensialet for mer effektive belysningsløsninger. Kunnskap og erfaring vil sammenfattes til generelle retningslinjer for en mer energieffektiv og klimavennlig drift av norske veksthus. Prosjektet vil evaluere hvorvidt det hybride veksthuskonseptet kan innpasses i norske gartnerier og hvilket potensial det har.
+I dette prosjektet foretok SINTEF sammen med de to gartneriene en helhetlig gjennomgang av energi- og varmebehovet ved de to hybride veksthusene gjennom casestudier. Dette innebar modellering og simulering av veksthusene, analyser for bruk av varmepumpesystemer og termisk energilagring, samt utredning av potensialet for mer effektive belysningsløsninger. Kunnskapen og erfaringen ble sammenfattet til generelle retningslinjer for en mer energieffektiv og klimavennlig drift av norske veksthus. Prosjektet evaluerte hvorvidt det hybride veksthuskonseptet kunne innpasses i norske gartnerier og hvilket potensial dette hadde.
 
-Foreløpige beregninger viser at energiforbruket per enhet kan reduseres med mellom 22 og 52 % for urter – avhengig av produksjonsform, og om lag 50 % for crispisalat. Potensialet for avlingsøkning anslås å ligge rundt 37 % for urter og 30 % for crispisalat, noe som for veksthusnæringen i Norge betyr omtrent 3 millioner urter og 5,4 millioner salater sammenlignet med dagens årsproduksjon.
+Foreløpige beregninger viste at energiforbruket pr. enhet kunne reduseres med mellom 22 og 52 % for urter, avhengig av produksjonsform, og om lag 50 % for crispisalat. Potensialet for avlingsøkning ble anslått å ligge rundt 37 % for urter og 30 % for crispisalat, noe som for veksthusnæringen i Norge betød ca. 3 millioner urter og 5,4 millioner salater sammenlignet med dagens årsproduksjon.
 
-Behovet for økt kompetanse innen effektiv og optimalisert energistyring anses som det mest påtrengende kunnskapsbehovet for hybridveksthusaktørene nå.
+Behovet for økt kompetanse på effektiv og optimalisert energistyring ble ansett som det mest aktuelle kunnskapsbehovet for hybridveksthusaktørene.
 
-Prosjektet ledes av PhD Sigurd Sannan ved SINTEF og har en tidsramme på 4 år.
+Prosjektet ble ledet av PhD Sigurd Sannan ved SINTEF og hadde en tidsramme på 4 år.
 
-Den 21. juni 2022 ble prosjektet tildelt støtte fra Forskningsmidlene for jordbruk og matindustri på 8,4 millioner kroner. Med en støtte fra Grofondet på 1,6 millioner kroner og en egeninnsats på 400 000 kroner har prosjektet en totalramme på 10,4 millioner kroner.
+Den 21. juni 2022 ble prosjektet tildelt støtte fra Forskningsmidlene for jordbruk og matindustri på 8,4 millioner kr. Med en støtte fra Grofondet på 1,6 millioner kr og en egeninnsats på 400 000 kr fikk prosjektet dermed en totalramme på 10,4 millioner kr.
 
-Grofondet ønsker lykke til og vi gleder oss til å følge prosjektet videre.
+Grofondet ønsket lykke til og gledet seg til å følge prosjektet videre.
 
-## Endringer:
+---
 
-- Konsoliderte og gjorde setninger mer presise og grammatikalsk korrekte.
-- Oppdaterte ordvalg og uttrykksmåte for å oppnå en mer profesjonell og entusiastisk tone.
-- La til struktur og oppdeling for bedre leseflyt.
-- Fjernet og erstattet gjentakelser for bedre lesbarhet.
-- La til overskrifter og strukturering med Markdown for bedre leseropplevelse.
+### Endringer:
 
+1. Endret teksten fra nåtid til fortid der det var nødvendig.
+2. Forbedret setningsstruktur og grammatikk for bedre flyt og lesbarhet.
+3. Endret enkelte formuleringer for å gi en mer profesjonell og entusiastisk tone.
+4. La til litt mer detalj ved noen punkter for å klargjøre betydningen.
+5. Fjernet overflødig tekst som ikke bidro til hovedbudskapet.

@@ -1,38 +1,41 @@
-```markdown
-I Norge omsettes det isbergsalat for omtrent 400 millioner kr i året. Om lag en tredjedel av dette er norskprodusert, men det er ikke uvanlig at 20-30 prosent av avlingene ødelegges av soppsykdommer. Grofondet gir nå 1,8 millioner kroner, fordelt over tre år, til forskning på miljøvennlig stimulering av immunsystemet i isbergsalat. Målet er å bekjempe soppangrep.
+### Forbedret Tekst
 
-> – Vi ser at mange av isbergsalatens skadegjørere har utviklet resistens mot plantevernmidler eller har tilpasset seg forsvarssystemet i de resistente plantesortene. Det er derfor behov for nye, effektive og miljøvennlige metoder for å beskytte isbergsalat, sier prosjektleder Tage Thorstensen i Norsk Institutt for bioøkonomi (NIBIO). 
+I Norge ble det omsatt isbergsalat for omtrent 400 millioner kroner i året. Om lag en tredjedel av dette var norskprodusert, og det var ikke uvanlig at 20-30 prosent av avlingene ble ødelagt av soppsykdommer. Grofondet hadde gitt 1,8 millioner kroner, fordelt over tre år, til forskning på miljøvennlig stimulering av immunsystemet i isbergsalat. Målet var å bekjempe soppangrep. 
 
-Med seg i prosjektet har han prosjektmedarbeider Paal Krokene fra NIBIO og salatprodusent Einar Kristen Aas fra Skallerød gård på Jeløya. Ved å teste ulike behandlinger håper de å finne en optimal kombinasjon for bekjempelse av soppangrep.
+\- Vi så at mange av isbergsalatens skadegjørere hadde utviklet resistens mot plantevernmidler, eller hadde tilpasset seg forsvarssystemet i de resistente plantesortene. Det var derfor behov for nye, effektive og miljøvennlige metoder for å beskytte isbergsalat, sa prosjektleder Tage Thorstensen i Norsk Institutt for bioøkonomi, NIBIO. Med seg i prosjektet hadde han prosjektmedarbeider Paal Krokene fra NIBIO og salatprodusent Einar Kristen Aas fra Skallerød gård på Jeløya. Ved å teste ulike behandlinger håpet de å finne en optimal kombinasjon for bekjempelse av soppangrep.
 
-## Aktivering av immunforsvaret
+---
 
-Skadedyr og sykdommer ødelegger 20-40 prosent av verdens plantebaserte matproduksjon, og for enkelte vekster er tapene enda større. For isbergsalat er det spesielt soppene storknolla råtesopp, salatbladskimmel og gråskimmel som er problematiske, og det er behov for nye, effektive og miljøvennlige alternativer til sprøyting med kjemikaler. 
+### Aktivering av immunforsvaret
 
-Alle planter har et naturlig immunforsvar som varierer fra sort til sort, og som aktiveres når plantene utsettes for insektangrep eller soppinfeksjon. Ved å stimulere dette immunforsvaret ved hjelp av ufarlige stoffer, kan man beskytte plantene mot angrep senere i livet.
+Skadedyr og sykdommer ødela 20-40 prosent av verdens plantebaserte matproduksjon, og for enkelte vekster var tapene enda større. For isbergsalat var det spesielt soppene storknolla råtesopp, salatbladskimmel og gråskimmel som var problematiske, og det var behov for nye, effektive og miljøvennlige alternativer til sprøyting med kjemikaler. Alle planter har et naturlig immunforsvar som varierer fra sort til sort, og som aktiveres når plantene ble utsatt for insektangrep eller soppinfeksjon. Ved å stimulere dette immunforsvaret ved hjelp av ufarlige stoffer, kunne man beskytte plantene mot angrep senere i livet.
 
-> – Vi skal teste ulike metoder for å aktivere forsvaret i isbergsalat. Lykkes prosjektet, vil ikke bare produksjonskostnadene senkes og produksjonen økes, men vi tror også at stimulering av plantenes naturlige immunforsvar vil være en miljøvennlig og bærekraftig metode som kan overføres til andre vekster av grønnsaker, frukt og bær, sier Thorstensen.
+\- Vi testet ulike metoder for å aktivere forsvar i isbergsalat. Lykkes prosjektet, ville ikke bare produksjonskostnadene senkes og produksjonen økes, men vi trodde også at stimulering av plantenes naturlige immunforsvar ville være en miljøvennlig og bærekraftig metode som kunne overføres til andre vekster av grønnsaker, frukt og bær, sa Thorstensen.
 
-## Konkurransefortrinn
+---
 
-En "vaksinert" salat vil sannsynligvis kunne bli en merkevare som gir merverdi sammenliknet med konvensjonelt dyrkede planter. Grunnen er at den er dyrket på en mer miljøvennlig måte, med mindre bruk av plantevernmidler.
+### Konkurransefortrinn
 
-### Prosjektleder:
+En vaksinert salat ville sannsynligvis kunne bli en merkevare som gir merverdi sammenliknet med konvensjonelt dyrkede planter. Grunnen til det var at den ble dyrket på en mer miljøvennlig måte, med mindre bruk av plantevernmidler.
+
+---
+
+**Prosjektleder:**
+
 Tage Thorstensen, NIBIO
 
-### Prosjektets varighet:
+**Prosjektets varighet:**
+
 2018 - 2020
 
-### Foto:
-Kari Ørstad, NIBIO
-```
+**Foto:**
 
-### Endringer som er gjort:
-1. Delt opp lange avsnitt i kortere og mer lettleste seksjoner.
-2. Inkluderte **blokksitater** for å fremheve sitater.
-3. Inkluderte overskrifter slik som "## Aktivering av immunforsvaret" og "## Konkurransefortrinn" for å strukturere innholdet bedre.
-4. La inn flere originale overskrifter og seksjonsbolker for bedre lesestrøm og forståelse.
-5. Omformulerte og forbedret tekstens flyt og grammatikk for en mer profesjonell og entusiastisk tone.
-6. Forbedret setningsstrukturen for å oppnå klarhet og flyt.
-7. Endret mindre ledd for å unngå gjentagelser og sikre en mer slagkraftig kommunikasjon.
-8. Endret prosjekt-integrerte pronomen til "vi" for å skape en mer samarbeidsorientert tone.
+Kari Ørstad, NIBIO
+
+### Endringsliste
+1. Endret all tekst til fortid for å reflektere fullførte handlinger.
+2. Endret setningen "Grofondet gir nå 1,8 millioner kroner" til "Grofondet hadde gitt 1,8 millioner kroner" for å sikre konsistens i tidsform.
+3. Justerte setningsstruktur for bedre flyt og klarhet.
+4. Fjernet unødvendig bruk av nåtid for å opprettholde sammenheng.
+5. La til særskilt overskrift for å markere seksjonsskifter tydeligere.
+6. Beholdt profesjonell og entusiastisk tone uten å være for prangende.

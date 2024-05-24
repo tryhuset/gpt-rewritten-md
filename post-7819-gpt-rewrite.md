@@ -1,24 +1,22 @@
-## Bruk av droner og smart teknologi revolusjonerer landbruket
+## Bruk av droner og smart teknologi for mer presisjon i fruktdyrking
 
-Bruken av droner og smart teknologi åpner generelt for mer presisjon i dyrkingen. Dronene kan registrere, observere og samle inn data som deretter brukes til å lage nøyaktige kart over fruktfeltene, hvor frukttrærne er nøyaktig plassert. Redusert bruk av plantevernmidler og mer presis påføring av sprøytevæske er avgjørende for å gjøre produksjonen mer bærekraftig og klima- og miljøvennlig. Droner, digitalisering og smart teknologi muliggjør slik presisjon i plantevernarbeidet.
+Bruk av droner og smart teknologi åpnet generelt for mer presisjon i dyrkingen. Dronene registrerte, observerte og samlet inn data som videre ble brukt for å lage nøyaktige kart over fruktfeltet, der frukttrærne ble nøyaktig plassert. Redusert bruk av plantevernmiddel og mer presis avsetning av sprøytevæske var viktig for å gjøre produksjonen mer bærekraftig og mer klima- og miljøvennlig. Droner, digitalisering og smart teknologi åpnet muligheter for slik presisjon i plantevernarbeidet.
 
-Fruktdyrkere i Hardanger har tatt initiativet til dette banebrytende prosjektet. Norsk Landbruksrådgiving Vest har utformet forprosjektet, som skal resultere i en fullstendig plan for et hovedprosjekt hvor målet er å få droner godkjent for sprøyting av kjemiske plantevernmidler i norsk fruktdyrking. Forprosjektet skal vurdere hvilke muligheter og begrensninger som finnes for bruk av droner i plantevernarbeidet. Det vil også klarlegges krav til godkjenning for både operatør og utstyr. Videre skal det lages en oversikt over tilgjengelig teknologi og kunnskap om miljøpåvirkninger. Økonomien ved bruk av droner i fruktdyrkingen skal vurderes, og det ses på muligheter for å organisere og tilby sprøyting av kjemiske plantevernmidler med droner som en tjeneste i fruktdistriktene.
+Fruktdyrkere i Hardanger tok initiativet til prosjektet. Norsk landbruksrådgiving Vest utformet forprosjektet som skulle ende opp med en fullstendig plan for et hovedprosjekt der målet var at droner skulle bli godkjente for sprøyting av kjemiske plantevernmidler i norsk fruktdyrking. Forprosjektet vurderte hvilke muligheter og avgrensninger som fantes med tanke på bruk av droner i plantevernarbeidet. Det klarla krav til godkjenningsordninger både for operatør og utstyr, skaffet oversikt over tilgjengelig teknologi og tilgjengelig kunnskap om miljøpåvirkning. I tillegg vurderte det økonomien ved bruk av droner i fruktdyrkingen, og så på mulighetene for å organisere og tilby sprøyting av kjemiske plantevernmidler med droner som en tjeneste i fruktdistriktene.
 
-I forprosjektet skal droner testes med vann. Utprøving med kjemiske plantevernmidler inngår ikke i forprosjektet.
+I forprosjektet ble droner testet med vann. Utprøving med kjemiske plantevernmidler inngikk ikke i forprosjektet.
 
-Prosjektet innhenter også kompetanse fra NIBIO, NMBU og privat næringsliv innen området.
+Prosjektet hentet også kompetanse fra NIBIO, NMBU og privat næringsliv på området.
 
-Prosjektet eies av Norsk Landbruksrådgiving Vest og ledes av Liv Lyngstad. Tidsrammen er på 1 år, med oppstart i løpet av andre kvartal 2023. Grofondet bidrar med 320 000 kroner til dette prosjektet.
+Prosjektet eies av Norsk landbruksrådgiving Vest og ledes av Liv Lyngstad.  
+Tidsrammen var på ett år og startet opp i løpet av andre kvartal 2023.  
+Grofondet bidro med 320 000 kr til dette.
 
-Grofondet ønsker lykke til med prosjektet og gleder seg til å følge utviklingen fremover.
+Grofondet ønsket lykke til med prosjektet og gledet seg til å følge det fremover.
 
 ---
 
-### Endringsliste:
-
-1. **Overskrift**: Lagt til en overskrift for å fange leserens interesse og gi en klar inngang til teksten.
-2. **Språk og struktur**: Justert setningsstruktur og språk for å flyte bedre og være mer engasjerende.
-3. **Presisjon og tydelighet**: Forbedret presisjonen i beskrivelsen av prosjektet og dets mål.
-4. **Profesjonell tone**: Justert tone til å være mer profesjonell og samtidig entusiastisk.
-5. **Konsistens**: Sørget for konsistens i terminologi og bruk av begreper.
-
+### Endringer gjort:
+1. Endret fra nåtid til preteritum for å reflektere at handlingene er avsluttet.
+2. Justert setningsstrukturen for bedre flyt og klarhet.
+3. Innført noen små grammatiske justeringer og tilføyelser for å øke profesjonaliteten.

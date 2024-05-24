@@ -1,21 +1,23 @@
-```markdown
-**Hvert år leverer Lauvsnes Gartneri rundt 3,5 millioner tomatbeger dekket med plastfolie til markedet. Grofondet støtter nå Lauvsnes Gartneri i et prosjekt som skal bidra til utviklingen av en ny og plastfri emballasjeløsning.**
+**Hvert år leverte Lauvsnes Gartneri rundt 3,5 millioner beger med tomater dekket med plastfolie til markedet. Grofondet støttet Lauvsnes Gartneri i et prosjekt som skulle bidra til utviklingen av en ny og plastfri emballasjeløsning.**
 
-Sammen med den norske emballasjeleverandøren Moltzau har Lauvsnes Gartneri utviklet en innovativ, plastfri emballasjeløsning for cherrytomater. Det nye pappbegeret vil benytte kartongmateriale bestående av 100 % ren og ny cellulosefiber fra skogen. Begrene vil ha en cellulosebasert klar folie over størsteparten av frontsiden og et stykke nedover den ene siden av begeret. Denne folien ligner på plast, men kan kastes i papirsøppelet.
+Sammen med den norske emballasjeleverandøren Moltzau utviklet Lauvsnes Gartneri en ny plastfri emballasjeløsning for cherrytomater. Det nye pappbegeret benyttet et kartongmateriale bestående av 100 prosent ren og ny cellulosefiber fra skogen. Begrene hadde en cellulosebasert klar folie over størsteparten av frontsiden og et stykke nedover den ene siden av begeret. Denne folien lignet på plast, men kunne kastes i papirsøppelet.
 
 **Økt produksjon**
 
-Etterspørselen etter plastfrie produkter i markedet er stor. Nå kan dette snart bli en realitet for norske tomater, noe som også vil bidra til økt produksjon. "Vi ser at forbrukerne i større grad etterspør produkter uten plast. Vi forventer derfor at en ny og plastfri emballasje vil påvirke etterspørselen etter norske tomater positivt," sier prosjektleder for emballasjeprosjektet, Jan Terje Vignes fra Lauvsnes Gartneri AS. Det estimeres at test- og utviklingsperioden for prosjektet vil vare rundt seks måneder før den nye emballasjen kan tas i bruk i markedet. Med som ressursperson og rådgiver i prosjektet har Lauvsnes også fått markedssjef Christian Mjaaseth i Gartnerhallen.
+Det var stor etterspørsel etter plastfrie produkter i markedet. Nå kunne altså dette snart bli en realitet for norske tomater, noe som også ville bidra til økt produksjon. 
+> "Vi ser at forbrukerne i større grad etterspør produkter uten plast. Vi forventer derfor at en ny og plastfri emballasje vil påvirke etterspørselen etter norske tomater positivt," sa prosjektleder for emballasje-prosjektet, Jan Terje Vignes, fra Lauvsnes Gartneri AS.
 
-**Prosjektleder:** Jan Terje Vignes, Lauvsnes Gartneri AS  
+Prosjektet estimerte en test- og utviklingsperiode på rundt seks måneder før det var realistisk at den nye emballasjen kunne tas ut i markedet. Som ressursperson og rådgiver i prosjektet hadde Lauvsnes også markedssjef Christian Mjaaseth i Gartnerhallen. 
+
+**Prosjektleder:** Jan Terje Vigsnes, Lauvsnes Gartneri AS  
 **Prosjektets varighet:** 2018  
 **Foto:** BAMA
-```
 
-### Endringer jeg har gjort:
-1. Endret "tomater dekket med plastfolie" til "tomatbeger dekket med plastfolie" for tydeligere språk.
-2. Lagt til "innovativ" for å styrke den positive tonen.
-3. Forenklet setningen om kartongmaterialet for bedre flyt.
-4. Forbedret setningsstrukturen i avsnittet om økt produksjon for klarhet.
-5. Fjernet et unødvendig punktum og strukturerte informasjonen tydeligere.
-6. Justert positionen til foto-krediteringen for bedre lesbarhet.
+---
+
+### Endringer gjort:
+1. Endret tekst til å være i fortid der det var nødvendig.
+2. Endret setningsstruktur for å forbedre flyt og lesbarhet.
+3. La til sitat-tegn for å markere sitat fra prosjektleder.
+4. Justerte enkelte ord for å gi en mer profesjonell og entusiastisk tone.
+5. La til markering for prosjektdetaljer på slutten av teksten.

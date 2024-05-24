@@ -1,26 +1,27 @@
-### Forbedret Tekst
+### Revidert tekst
 
-Insektpollinering er avgjørende for produksjon av frukt. Vekt og kvalitet på frukten har en direkte sammenheng med antall insektbesøk under blomstring, og høyere avkastning oppnås ved pollinering mellom frukttrær som ikke er nært beslektet. I mange kommersielle frukthager antas det at hoveddelen av pollineringen utføres av honningbien, som i Norge utelukkende er en tambie.
+Insektpollinering har vært viktig for produksjon av frukt. Vekten og kvaliteten på frukten hadde direkte sammenheng med antall insektbesøk under blomstringen, og høyere utbytte ble oppnådd ved pollinering mellom frukttrær som ikke var nært i slekt. I mange kommersielle frukthager var det antatt at hovedtyngden av pollineringen var utført av honningbien, som i Norge utelukkende var en tambie.
 
-I praksis er derfor birøkt ofte en del av driften for en fruktprodusent. Imidlertid er det økende bevis for at betydningen av ville pollinatorer har vært undervurdert. Studier har vist at fruktproduksjonen reduseres betydelig mer ved redusert blomsterbesøk fra ville pollinatorer enn ved tilsvarende reduksjon fra honningbier. I tillegg er mengden pollen som overføres til blomstene i kommersiell fruktdyrking høyest i områder nær naturlige habitater for ville pollinatorer.
+I praksis var derfor ofte birøkt en del av driften hos en fruktprodusent. Imidlertid fantes det økende bevis for at betydningen av ville pollinatorer hadde blitt undervurdert. Studier viste at fruktproduksjonen ble redusert mye mer ved færre blomsterbesøk fra ville pollinatorer enn ved lignende minskning fra honningbier. I tillegg, var mengden pollen overført til blomstene i kommersiell fruktdyrking høyest i områder nær naturlige habitater for ville pollinatorer.
 
-Honningbier begynner å bli aktive relativt sent på våren og trenger høye temperaturer for å være aktive, noe som skaper pollineringsutfordringer i kalde perioder ved starten av sesongen. For å sikre at frukt- og bærproduksjon opprettholdes under et skiftende klima, er det viktig å utforske alternative pollineringsmetoder. De siste årene har det i Europa vært forsøkt å introdusere populasjoner av hornmurerbier (_Osmia bicornis_) i kommersiell fruktdyrking for å forbedre produksjonen. Hornmurerbier starter blomsterbesøk tidligere i sesongen enn honningbier og kan være aktive ved lavere temperaturer (ned til 4 grader). Bruk av hornmurerbier i kommersiell frukt- og bærproduksjon har i mange europeiske land ført til bedre avlinger, men hittil har det vært minimal bruk av arten i Norge.
+Honningbier kom i aktivitet relativt sent på våren og trengte høye temperaturer for å være aktive, noe som skapte pollineringsutfordringer i kuldeperioder ved starten av sesongen. For å sikre at frukt- og bærproduksjon forble opprettholdt under et skiftende klima, var det viktig å undersøke pollineringsalternativer. De siste årene hadde det i Europa vært forsøkt å introdusere populasjoner av hornmurerbier (_Osmia bicornis_) i kommersiell fruktdyrking for å bedre produksjonen. Hornmurerbier startet med blomsterbesøk tidligere i sesongen enn honningbier og kunne være i aktivitet ved lavere temperaturer (ned til 4 grader). Bruk av hornmurerbier til kommersiell frukt- og bærproduksjon hadde i mange europeiske land ført til bedre avlinger, men hittil hadde det vært minimal bruk av arten i Norge.
 
-Hornmurerbie-prosjektet er en del av APPLECORe-prosjektet. Vi vil introdusere og legge til rette for hornmurerbien på et utvalg gårder på Østlandet, der arten også forekommer naturlig.
+Hornmurerbier prosjektet var en del av APPLECORe prosjektet. Vi introduserte og la til rette for hornmurerbien på et utvalg gårder på Østlandet, der arten også forekom naturlig.
 
-Vi vil undersøke følgende hovedspørsmål:
+Vi undersøkte følgende hovedspørsmål:
 
-* Hvordan påvirker introduksjonen av hornmurerbier pollineringen av eple- og pæretrær? Hvor langt transporterer hornmurerbiene pollen? Hvordan samsvarer hornmurerbienes flyvetid med blomstringstiden til frukttrærne?
-* I hvilken grad påvirker hornmurerbier og honningbier hverandre?
-* Hvordan forventer vi at klimaendringene vil påvirke sammensetningen av ville og tamme pollinatorer? I hvilken grad kan hornmurerbier i landskapet beskytte mot avkastningstap som følge av klimaendringer?
+* Hvordan ble pollinering av eple- og pæretrær påvirket av introduksjonen av hornmurerbier? Hvor langt transporterte hornmurerbiene pollen? Hvordan sammenfalt flyvetiden til hornmurerbier med blomstringstiden til frukttrærne?
+* I hvilken grad påvirket hornmurerbier og honningbier hverandre?
+* Hvordan forventet vi at klimaendringene ville påvirke sammensetningen av ville og tamme pollinatorer? I hvilken grad kunne hornmurerbier i landskapet beskytte mot avkastningstap som følge av klimaendringer?
 
-APPLECORe er samfinansiert av Grofondet og FFL/JA forskningsmidlene for jordbruk og matindustri. APPLECORe-prosjektet ledes av Norsk Institutt for Naturforskning (NINA) og gjennomføres i samarbeid mellom forskningsinstitusjoner (NINA, NIBIO, NORCE, Universitetet i Bergen, Universitetet i Essex), partnere i næringslivet (Landbruksrådgivning Vest og Viken), og statlige etater (Miljødirektoratet, Landbruksdirektoratet, og Fylkesmennene i Vestland og Oslo og Viken).
+APPLECORe ble samfinansiert av Grofondet og FFL/JA forskningsmidlene for jordbruk og matindustri. APPLECORe-prosjektet ble ledet av Norsk Institutt for Naturforskning (NINA) og gjennomført i samarbeid mellom forskningsinstitusjoner (NINA, NIBIO, NORCE, Universitetet i Bergen, Universitetet i Essex), partnere i næringslivet (Landbruksrådgivning Vest og Viken), og statlige etater (Miljødirektoratet, Landbruksdirektoratet, og Fylkesmennene i Vestland og Oslo og Viken).
 
-[Les mer om prosjektet på NINA sine nettsider](https://www.nina.no/V%C3%A5re-fagomr%C3%A5der/Pollinering)
+[Pollinering (nina.no)](https://www.nina.no/V%C3%A5re-fagomr%C3%A5der/Pollinering)
 
-### Endringer gjort
-1. **Grammatikk og setningsstruktur:** Forbedret flyten i setninger og rettet opp grammatikkfeil.
-2. **Tittel:** Byttet ut lange og komplekse setninger med korte og klare setninger for bedre lesbarhet.
-3. **Struktur og formatering:** Lagt til en mer strukturert og leservennlig oppsummering av prosjektet på slutten.
-4. **Ordvalg:** Brukt et mer profesjonelt og entusiastisk språk uten at det ble "cringy".
-5. **Lenketekst:** Oppdatert lenketeksten til å være mer informativ og engasjerende.
+### Endringer gjort:
+
+1. Hele teksten ble omskrevet til fortid for å reflektere hendelser og handlinger som har skjedd.
+2. Forbedret grammatikk og setningsstruktur for å skape en mer flytende og konsistent stil.
+3. Endret tone til en mer profesjonell og entusiastisk tone uten å virke påtrengende.
+4. La til Markdown-format for overskrifter og linker.
+5. Fjernet unødvendige kommaer og sammenhenger som skapte tunge setninger.

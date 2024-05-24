@@ -1,37 +1,28 @@
-### Redigert tekst
+### Forbedret Artikkel for Grofondet
 
-Jordbærsorten Korona er i stor grad på vei ut av produksjon, og norske forbrukere viser interesse for sorter med mer og bedre smak. Malwina er en slik sort. Produsent og prosjektleder Hans Olav Moskvil har dyrket Malwina under værvern i tunnel i flere år med gode resultater. Planen nå er å forsøke å oppnå tidligere modning.
+#### Malwina: Fremtidens Jordbærvariant for Norske Bønder
 
-Prosjektet har som mål å finne ut hvor mye sorten Malwina tåler av drivende temperaturer i tunnel før det går utover avling og kvalitet. Sorten er utviklet for å modnes sent, og det ser ut til at det internasjonalt er gjort lite arbeid for å oppnå tidligere modning.
+Jordbærsorten Korona var på vei ut av produksjon da norske forbrukere viste interesse for sorter med mer smak og høyere kvalitet. Malwina viste seg å være en sort som møtte disse kravene. Produsent og prosjektleder Hans Olav Moskvil dyrket Malwina med værbeskyttelse i tunnel gjennom flere år med gode resultater. Planen var å forsøke å få tidligere modning av bærene.
 
-"Vi har erfart at Malwina tåler varme godt. Gjennom ulike forsøk vil vi undersøke om vi kan finne en optimal produksjonsmåte slik at produsentene kan levere Malwina gjennom hele juli, toppsesongen for norske jordbær," sier produsent Hans Olav Moskvil.
+Prosjektet hadde som mål å lære hvor mye sorten Malwina tålte av driving og temperatur i tunnelen før det gikk utover avling og kvalitet. Sorten var opprinnelig utviklet for å modnes sent, og internasjonalt så det ut som det var gjort lite arbeid for å oppnå tidligere modning.
 
-Hvis prosjektet klarer å produsere jordbær med utmerket smak gjennom hele juli, vil dette gi et stort fortrinn for norske jordbær i konkurransen mot import. Det kan også skape rom for lønnsom produksjon av jordbær i Norge, til tross for høyt lønnsnivå.
+«Vi erfarte at Malwina tålte varme godt. Vi gjennomførte ulike forsøk for å finne en optimal produksjonsform slik at produsentene kunne levere Malwina gjennom hele juli, toppsesongen for norske jordbær,» fortalte produsent Hans Olav Moskvil.
 
-Det er først sommeren 2022 vi kan forvente å se resultater og tall fra prosjektet. Denne sommeren har vært brukt til å stelle plantene best mulig og bygge tunneler over feltet slik at plasten kan settes på til ulike tidspunkt.
+Dersom prosjektet kunne produsere jordbær med særs god smak gjennom hele juli, ville det gi et stort fortrinn for norske jordbær i konkurransen mot import. Dette ville trolig skape rom for lønnsom produksjon av jordbær i Norge selv med høye lønnskostnader.
 
-I prosjektet samarbeider Hans Olav blant annet med Stanislav Strbac fra Norsk Landbruksrådgivning Viken, som bistår med forsøksplan og registreringer.
+Det var først sommeren 2022 at resultater og tall fra prosjektet kunne hentes inn. Sommeren før ble brukt til å stelle plantene best mulig og bygge tunneler over feltet slik at plast kunne settes på til de ulike tidene.
 
-Prosjektet er finansiert gjennom midler fra Grofondet og egeninnsats.
+Med seg i prosjektet hadde Hans Olav blant annet Stanislav Strbac fra Norsk Landbruksrådgivning Viken, som bisto med forsøksplan og registreringer.
 
-Grofondet ønsker lykke til med prosjektet!
+Prosjektet ble finansiert gjennom midler fra Grofondet samt egeninnsats.
 
-### Liste over endringer
+Grofondet ønsket lykke til med prosjektet.
 
-1. **Forbedret setningsstruktur og flyt:**
-   - Endret "stort sett på vei ut av produksjon" til "i stor grad på vei ut av produksjon" for klarhet.
-   - Endret "dyrket Malwina med vær-vern i tunnel" til "dyrket Malwina under værvern i tunnel" for bedre flyt.
-   - Endret flere setninger for å sikre en jevnere leseropplevelse.
-   
-2. **Klarhet og presisjon:**
-   - Forbedret formuleringen "få tidligere modning" til "oppnå tidligere modning."
-   - Presisert setningene for å sikre at budskapet er klart og tydelig.
-   
-3. **Sitatformatering:**
-   - Endret sitatformateringen for å fremheve sitatet og gi teksten et mer profesjonelt preg.
+---
 
-4. **Tonemessig justering:**
-   - Endret språket til å være mer profesjonelt og entusiastisk uten å bli overdreven.
+### Endringer Utført
 
-5. **Formatendringer:**
-   - Lagt til enkelte betoningselementer som sitatformatering for å fremheve nøkkelpunkter.
+1. **Tidsform**: Endret teksten fra nåtid og fremtid til datid der det var nødvendig.
+2. **Grammatikk og Struktur**: Forbedret grammatikk og setningsstruktur for bedre flyt.
+3. **Tone**: Justert tonen til å være mer profesjonell og entusiastisk, uten å bli overdrevent.
+4. **Formatting**: Brukt Markdown for å tydeliggjøre overskrifter og dele inn teksten i passende avsnitt.

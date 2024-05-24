@@ -1,37 +1,36 @@
-### Målselvnepe: En Kulinarisk Skatt fra Troms
+### Målselvnepe: En Delikatesse med Historisk Forankring
 
-Målselvnepe er en tradisjonell landsort som har blitt utviklet gjennom over 150 års dyrking i Troms. Denne sorten er kjent for sine sirkelrunde, gule neper med innhulet rotfeste og en frisk, god smak. Fersk Målselvnepe regnes som en delikatesse regionalt. Som landsort kan den imidlertid være mer utsatt for kvalitetsvariasjon sammenlignet med moderne hybridsorter. Dette kan resultere i neper med kvalitetsfeil som grønnfarget skall og/eller bitter smak, noe som gjør det utfordrende å øke satsingen på Målselvnepe både regionalt og nasjonalt.
+Målselvnepe er en gammel landsort utviklet gjennom over 150 års dyrking i Troms, selektert for sirkelrunde, gule neper med innhulet rotfeste og god, frisk smak. Fersk Målselvnepe var kjent regionalt som en delikatesse. Som landsort var den imidlertid mer utsatt for variasjon i kvalitet enn moderne hybridsorter. Dette resulterte i kvalitetsfeil hos en andel neper, som fikk grønnfarget skall og/eller bitter smak i selve roten. Utsorteringen av neper på grunn av grønnfarging og bitter smak hindret økt satsing på Målselvnepe både regionalt og på landsbasis.
 
-## Formål
+### Formål
 
-Å undersøke om kvalitetsfeil skyldes genetiske eller dyrkingstekniske årsaker – eller en kombinasjon av disse. Vi ønsker også å identifisere tiltak for å sikre homogenitet i frøavl og dyrking av Målselvnepe.
+Formålet med prosjektet var å kartlegge om kvalitetsfeil hadde genetiske eller dyrkingstekniske årsaker – eller en kombinasjon av disse. Målet var også å identifisere tiltak for å sikre homogenitet i frøavl og dyrking av Målselvnepe.
 
-## Utføring
+### Utføring
 
-Variasjoner i ulike årganger med frø skal undersøkes i feltforsøk sommeren 2017, i samarbeid med Tromspotet AS og dyrkere tilknyttet produsentorganisasjonen Ottar. Det vil også bli undersøkt om bruk av duk og gjødsling påvirker kvaliteten. Bruk av duk kan øke veksttemperaturen og redusere lysstyrken. Effektene av lys og temperatur på kvaliteten vil bli undersøkt i Biologisk klimalaboratorium på Norsk institutt for bioøkonomi (NIBIO) Holt for utvalgte årganger. Gradert utvikling av grønnfarge i skall og tørrstoffinnhold vil bli målt i nepene, og innhold av smaksrelaterte stoffer (bitterstoffer som progoitrin og sinigrin, og løselige sukker som glukose, fruktose og sukrose) vil bli kvantifisert i samarbeid med Universitetet i Tromsø (UiT). Smaksopplevelsen langs aksen mellom søthet og bitterhet er avhengig av både sukker- og glukosinolatkonsentrasjoner. Den relative påvirkningen fra genetisk variasjon og vekstfaktorer på smak og farge vil dermed måles. Prosjektets data vil kunne bidra til utvikling av mer presise metoder for sortering av god smakskvalitet basert på farge og tørrstoffprosent. Det vil også gi et vurderingsgrunnlag for mulige tiltak under dyrking, og for eventuelle behov for oppfølging innen frøavl og ny sortsforedling.
+Variasjon i ulike årganger med frø ble undersøkt i feltforsøk sommeren 2017, i samarbeid med Tromspotet AS og dyrkere tilknyttet produsentorganisasjonen Ottar. Det ble også undersøkt om bruk av duk og gjødsling påvirket kvaliteten. Bruk av duk økte veksttemperaturen og reduserte lysstyrken. Effekten av lys og temperatur på kvaliteten ble derfor undersøkt i Biologisk klimalaboratorium på Norsk institutt for bioøkonomi (NIBIO) Holt for utvalgte årganger. Gradert utvikling av grønnfarge i skall og tørrstoffinnhold ble målt i nepene, og undersøkelser av smaksrelaterte innholdsstoffer (bitterstoffer: progoitrin og sinigrin, og løselige sukker: glukose, fruktose og sukrose) ble kvantifisert i samarbeid med Universitetet i Tromsø (UiT). Smaksopplevelsen langs aksen mellom søthet og bitterhet var avhengig av både sukker- og glukosinolat-konsentrasjoner. Den relative innflytelsen av genetisk variasjon og vekstfaktorer på smak og farge ble dermed målt. Prosjektets data kunne bidra til utvikling av mer presise metoder for sortering av god smakskvalitet basert på farge og tørrstoffprosent. Det ville også gi et vurderingsgrunnlag for mulige tiltak under dyrkning, og om det var behov for oppfølging på frøavlsiden av genetiske spørsmål og ny sortsforedling.
 
-## Verdiskapings- og forbrukspotensial
+### Verdiskapings- og forbrukspotensial
 
-Dagens verdiskaping basert på en regional produksjon på 80 tonn Målselvnepe ligger rundt 1,5 millioner kroner. I fremtiden anslås det at leveranse til markedet i Nord-Norge kan økes til 100 tonn og salg i resten av Norge kan nå opptil 200 tonn. Dette vil gi en verdiskaping på 5,6 millioner kroner basert på salg av rå neper. I tillegg vil økt regional produksjon og merkevarebygging rundt spesialproduktet Målselvnepe fra Nord-Norge kunne gi enda høyere verdiskaping i fremtiden.
+Verdiskapningen basert på en regional produksjon på 80 tonn Målselvnepe var på rundt 1,5 mill. kr. I fremtiden ble det anslått at leveransen til markedet i Nord-Norge kunne økes til 100 tonn og salg av opptil 200 tonn i resten av Norge. Dette ville gi en verdiskapning på fersk Målselvnepe til 5,6 mill. kr basert på salg av rå neper. I tillegg ville den regionale produksjonsøkningen og merkevarebygging rundt spesialproduktet Målselvnepe fra Nord-Norge kunne gi enda høyere verdiskapning i fremtiden.
 
-### Prosjektleder
+**Prosjektleder:**
 
 Jørgen A. B. Mølmann, NIBIO Holt
 
-### Prosjektets varighet
+**Prosjektets varighet:**
 
 2017
 
-### Foto
+**Foto:**
 
 Bama
 
 ---
 
-## Endringer gjort
-
-1. Språket ble mer flytende og profesjonelt.
-2. Titler og overskrifter ble lagt til.
-3. Setninger ble forkortet for bedre lesbarhet.
-4. Mindre omformuleringer for å klargjøre budskapet.
-5. Underpunkter ble laget der det var hensiktsmessig.
+#### Endringer som ble gjort:
+1. Byttet verb fra nåtid til fortid der det var aktuelt.
+2. Forbedret grammatikk og setningsstruktur for en mer profesjonell tone.
+3. La til overskriften "Målselvnepe: En Delikatesse med Historisk Forankring" for å fremheve temaet.
+4. Sørget for en mer sammenhengende og klar framstilling ved å restrukturere deler av teksten.
+5. La til ekstra formatering i overskrifter for å skille seksjonene tydeligere.

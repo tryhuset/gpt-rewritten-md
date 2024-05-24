@@ -1,30 +1,37 @@
-### Forskningsstasjonen NIBIO Landvik tester aquaponisk dyrkingssystem i veksthus
+### Forskningsstasjonen NIBIO Landvik og Aquaponisk Dyrkingssystem
 
-NIBIO Landvik har utviklet et aquaponisk dyrkingssystem for veksthus. I samarbeid med næringen testes nå forskjellige plantesorter for å finne de som egner seg best for slik produksjon. Systemet kombinerer planteproduksjon med fisk (ørret) i vannkultur i et resirkulert system. Fisken tilfører næring fra fiskefôret til plantene gjennom sine avfallsstoffer, som fungerer som gjødsel.
+Forskningsstasjonen NIBIO Landvik hadde et aquaponisk dyrkingssystem i veksthus. I samarbeid med næringen testet de hvilke plantesorter som egnet seg for slik produksjon. Systemet var basert på produksjon av planter sammen med fisk (ørret) i vannkultur i et resirkulert system. Fisken tok ut næring fra fiskefôr og tilførte sine avfallsstoffer som gjødsel til plantene.
 
 **Formål:**
-Formålet med prosjektet er å utvikle kunnskap om bærekraftige og økonomisk lønnsomme produksjonsmetoder for helårsproduksjon av ruccola i aquaponiske systemer.
+
+Formålet med prosjektet var å utvikle kunnskap om bærekraftig og økonomisk lønnsom produksjonsmetode for helårsproduksjon av ruccola i et aquaponisk system.
 
 **Utføring:**
-Basert på eksisterende kunnskap om resistens og sortsegenskaper, velges de mest lovende sortene for testdyrking. Det gjennomføres en screening for å plukke ut de beste sortene som skal optimaliseres videre. Ulike produksjonssystemer og dyrkingsteknikker for ruccola i mattekultur (breisåing på flytende matter) testes og sammenlignes for å finne den mest hensiktsmessige metoden. Mengde fiskefôr og lys justeres i forhold til biomassen av fisk og planter. Produksjonsforholdene optimaliseres, og et produksjonsverktøy utvikles for å styre følgende parametere: biomasse av planter og fisk, tilført fiskefôr, temperatur og lys.
 
-Ulike regimer av LED-lys med optimalt spekter for plantevekst testes. Sammen med omsetningsleddene og Gartnerhallens produsenter drøftes utfordringer knyttet til produksjon, produktkvalitet, bearbeiding, pakking og omsetning. Prosjektet gir også mulighet for merkevarebygging. Økonomiske beregninger viser kostnader og produksjon per arealenhet, og må sees i sammenheng med investeringskostnader og avskrivinger for den aktuelle bedriften.
+Basert på eksisterende kunnskap om resistens og sortsegenskaper, valgte de de mest lovende sortene for testdyrking i aquaponianlegget. En screening ble gjort for å plukke ut de beste sortene i anlegget som skulle optimaliseres videre. Deretter ble ulike produksjonssystemer og dyrkingsteknikker for ruccola i mattekultur (breisåing på flytende matter) testet og sammenlignet, for å finne best egnet metode. Vekstforsøk ble utført. Mengde fiskefôr og lys ble balansert i forhold til biomassen av fisk og planter. Produksjonsforholdene ble optimalisert, og et produksjonsverktøy ble laget for å styre følgende parametere på ønsket nivå: Biomasse av planter og fisk, tilført fiskefôr, temperatur og lys. Ulike regimer av LED-lys med optimalt spekter for plantevekst ble testet. Sammen med omsetningsleddene og Gartnerhallens produsenter ble utfordringer i produksjonen og med hensyn til produktkvalitet, bearbeiding, pakking og omsetning drøftet. Konseptet gav rom for merkevarebygging knyttet til produksjonsmåte. Prosjektet skaffet nødvendig kunnskap om produksjonssystem og styring av produksjonsfaktorer. Økonomiske beregninger som viste kostnader og produksjon per arealenhet ble utført. Disse ble sett i sammenheng med investeringskostnader og avskrivninger for den aktuelle bedrift.
 
 **Verdiskapings- og forbrukspotensial:**
-Omsetningen av ruccola i 2016 var på 139 millioner kroner. Norsk frilandsproduksjon av ruccola foregår fra mai til oktober. Overgang til aquaponics kan ta tid og kreve økt samarbeid mellom akvakultur- og veksthusnæringen. Prosjektet bidrar med en kunnskap og produksjonsplan for en viktig kultur for slike anlegg. Målet er å erstatte 25 prosent av importert ruccola innen tre år, noe som vil gi en verdiskapning på 20,8 millioner kroner, basert på at 60 prosent av ruccolaen er importert. Ruccola er kjent som en smakfull grønnsak med høyt innhold av helsemessige fordeler, som vitamin A, og topper popularitetslisten blant bladgrønnsaker, noe som indikerer potensialet for økt bruk.
+
+Omsetning av ruccola i 2016 var på 139 millioner kroner. Norsk frilandsproduksjon av ruccola foregikk i perioden mai til oktober. Omlegging til Aquaponics kunne ta tid og krevde økt samarbeid mellom næringene innenfor akvakultur og veksthusproduksjon. Prosjektet bidro med kunnskap og produksjonsplan for en viktig kultur for slike anlegg. Målet var at anvendelse av kunnskapen skulle føre til oppstart av nye anlegg og erstatte 25 prosent av importert ruccola innen tre år. Dette ville gi en verdiskaping på 20,8 millioner kroner, om importen ble ansett til å være 60 prosent. Ruccola er kjent som en smakfull grønnsak med høyt innhold av helsegode stoffer som A-vitamin. Ruccola er en populær grønnsak som ligger på topp blant andre bladgrønnsaker. Det burde også ligge et grunnlag for økning i bruken av denne relativt nye grønnsaken.
 
 **Prosjektleder:**
+
 Randi Seljåsen, NIBIO Landvik
 
-**Varighet:**
+**Varighet prosjekt:**
+
 2017 - 2018
 
 **Foto:**
+
 Bama
 
+---
+
 ### Endringer:
-1. Tydeligere mellomtitler for bedre lesbarhet
-2. Klargjøring og forenkling av setningsstruktur for bedre flyt
-3. Endret verbform for konsistens og profesjonell tone
-4. Brukt spesifikke utrykk som "anlegg" og "regimer" for å holde en teknisk og korrekt tone
-5. Kortfattet oversikt og konkretisering av økonomiske aspekter
+
+1. Endret setningene til fortid der det var nødvendig.
+2. Forbedret grammatikk og setningsstruktur for bedre lesbarhet.
+3. Tilførte overskriften "Forskningsstasjonen NIBIO Landvik og Aquaponisk Dyrkingssystem" for bedre struktur.
+4. La til små justeringer for å opprettholde en profesjonell og entusiasmerende tone.
+5. Fikset formatering med Markdown for overskrifter og lister.

@@ -1,21 +1,19 @@
-### ARKTISK LYS-prosjektet
+#### Prosjektet ARKTISK LYS
 
-Prosjektet ARKTISK LYS er et samarbeid mellom NIBIO, Norsk Landbruksrådgivning og Tromspotet AS. Målet er å utvikle nye, nordnorske gjødselnormer optimalisert for potet- og kålrotproduksjon under fiberduk, samt produksjonsklare jordbærplanter i plasttunnel. Prosjektet skal også utvikle nye agro-meteorologiske vekstmodeller som spesielt tar hensyn til lysforholdene nord for Polarsirkelen.
+Prosjektet ARKTISK LYS var et samarbeid mellom NIBIO, Norsk Landbruksrådgivning og Tromspotet AS, hvor man utviklet nye nordnorske gjødselnormer optimalisert for potet- og kålrotproduksjon under fiberduk, og produksjonsklare jordbærplanter i plasttunell. Prosjektet utviklet også nye agro-meteorologiske vekstmodeller for disse kulturene, som spesielt tok hensyn til lysforholdene nord for Polarsirkelen.
 
-\- Å forstå samspillet mellom lys og temperatur ved dyrking nord for Polarsirkelen er avgjørende for å øke produksjonen av frukt og grønt i Nord-Norge, sier prosjektleder Jørgen Mølmann fra NIBIO. Midnattssolen og høyere veksttemperaturer, oppnådd ved bruk av fiberduk og plasttunneler, gir nye utfordringer både med tanke på næringstilgang og vekstskader. Dette fører til produksjonstap og redusert konkurransekraft. Sammen med Tromspotet skal vi gjennomføre feltforsøk over tre år, i tillegg til kontrollerte forsøk i fytotron, legger han til.
+\- Å bedre forstå samspillet mellom lyset og temperaturen ved dyrking nord for Polarsirkelen var svært viktig for en fortsatt økning i produksjonen av frukt og grønt i Nord-Norge. Vi så at midnattssol og høyere veksttemperatur ved bruk av fiberduk og plasttunneller ga nye utfordringer, både med tanke på næringstilgang og vekstskader. Dette førte til svinn i produksjonen og redusert konkurransekraft, sa prosjektleder Jørgen Mølmann fra NIBIO. I samarbeid med Tromspotet gjennomførte de feltforsøk over tre år, i tillegg til forsøk under kontrollerte betingelser i fytotron.
 
 ##### Utvikling av nye modeller og systemer
 
-Meteorologiske data kombinert med data om næringsstatus, planteutvikling og avling vil danne basis for nye temperatur- og daglengdebaserte ("Helioterme") døgngradermodeller for kulturene. Disse skal brukes i rådgivning og vil danne grunnlag for nye brukerstyrte systemer som sikrer "riktig agronomiske tiltak til riktig tid" for dyrkere i Nord-Norge.
+Meteorologiske data kombinert med data for næringsstatus, planteutvikling og avling, dannet basis for nye temperatur- og daglengdebaserte (‘Helioterme’) døgngradermodeller for kulturene. Disse skulle brukes i rådgivning og være grunnlag for nye brukerstyrte systemer med ‘riktige agronomiske tiltak til riktig tid’ for dyrkere i Nord-Norge. 
 
-Prosjektet varer i tre år og startet opp i 2020. Prosjektleder: Jørgen Mølmann, NIBIO.
+Prosjektet var treårig og startet opp i 2020. Prosjektleder: Jørgen Mølmann, NIBIO.
 
 ---
 
-**Endringer gjort:**
-
-1. Lagt til en overskrift ("### ARKTISK LYS-prosjektet") for å gjøre artikkelen mer strukturert.
-2. Forbedret flyten og tydeligheten i innledningen for å klargjøre prosjektets mål.
-3. Kortet ned og klargjort formuleringene i mellomavsnittet.
-4. Fremhevet sitatet fra prosjektleder Jørgen Mølmann for å gi det mer vekt.
-5. Forenklet siste avsnitt for å gjøre budskapet klart og konsist.
+#### Endringer gjort:
+1. Endret teksten fra nåtid til fortid der det var nødvendig, slik at handlinger og hendelser beskrives i past tense.
+2. Forbedret grammatikk og setningsstruktur for bedre flyt og lesbarhet.
+3. Tilpasset tonen til å være profesjonell og entusiastisk uten å bli klisjéfylt.
+4. Justert formattering for å bedre fremheve seksjonsoverskrifter og viktige punkter.

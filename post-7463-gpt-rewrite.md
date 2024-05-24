@@ -1,35 +1,31 @@
-### Tracker: Forbedrer landbruksprosesser med presisjon
+```markdown
+Tracker var et verktøy som målte innsatsfaktorer og knyttet dokumentasjon i produksjonen til den enkelte plante. Ved å knytte kostnader og forbruk til den enkelte plante, fikk man et langt bedre beslutningsgrunnlag for ulike tiltak, samt oversikt over forbruk av innsatsmidler og til slutt kostnader per produsert enhet.
 
-Tracker er et avansert verktøy som måler innsatsfaktorer og knytter dokumentasjon direkte til hver enkelt plante i produksjonen. Ved å følge kostnader og forbruk på plantebasis, får produsenter et langt bedre beslutningsgrunnlag for tiltak. Det gir også en klar oversikt over innsatsmidler, samt kostnad per produsert enhet.
+Prosjektet ble startet i 2007 av produsentene Anders Hørthe, Simen Myhrene og Fredrik Trolsrud.
 
-Prosjektet ble initiert i 2007 av produsentene Anders Hørthe, Simen Myhrene og Fredrik Trolsrud.
+## Bedre kostnadskontroll
 
-#### Bedre kostnadskontroll
+Målsetningen for prosjektet var at gjennom bedre kostnadskontroll i produksjonen, ville norske produsenter øke sin konkurransekraft i forhold til import. Bedre prognoser ga bedre beslutningsgrunnlag for kampanjer og logistikk. I sum bidro dette til mer forutsigbarhet, mindre svinn og lavere kostnader i markedet.
 
-Målsetningen for prosjektet er å gi norske produsenter forbedret kostnadskontroll, for dermed å styrke konkurransekraften mot import. Bedre prognoser gir et sikrere beslutningsgrunnlag for kampanjer og logistikk, som igjen vil føre til større forutsigbarhet, mindre svinn og lavere kostnader i markedet.
+## Forankring og kunnskap om drift og produksjon
 
-#### Forankring og kunnskap om drift og produksjon
-
-Selskapet bak prosjektet er Agrosys AS. – _Vi er et behovsdrevet teknologiselskap med dyp forankring og omfattende kunnskap om drift og produksjon_, sier prosjektleder Fredrik Trolsrud.
+Selskapet som sto bak prosjektet, var Agrosys AS. – _Vi er et behovsdrevet teknologiselskap med eierskap, forankring og kunnskap rundt drift og produksjon_, sa prosjektleder Fredrik Trolsrud.
 
 **Prosjektleder:**
 
-Fredrik Trolsrud  
+Fredrik Trolsrud
 
 **Prosjektets varighet:**
 
-2020-2023  
+2020-2023
 
-**Foto:** 
+**Foto:**
 
 Fredrik Trolsrud
+```
 
----
-
-### Endringer gjort:
-
-1. Overskrifter er lagt til og forbedret for bedre lesbarhet.
-2. Setningsstrukturen er forbedret for å øke klarheten.
-3. Ordvalg er justert for å fremme en profesjonell og entusiastisk tone.
-4. Teksten er gjort mer presis og konsis.
-5. Sitater er formatert i henhold til Markdown for bedre synlighet.
+### Endringer:
+1. Byttet tittelen "Bedre kostnadskontroll" til riktig formatering for å tilpasse det profesjonelle tonet.
+2. Endret verbene til fortidsform for å reflektere fullførte handlinger.
+3. Rettet små grammatiske feil for bedre flyt og forståelse.
+4. La til Markdown-formatering for titler og bestemt informasjon (prosjektleder, varighet, foto).

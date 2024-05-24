@@ -1,44 +1,34 @@
-## Økende Interesse for Søtpotetdyrking i Norge
+```markdown
+I løpet av de siste årene har bruken av søtpotet økt fra noen få tonn per år til en import på 4 000 tonn i året. Grofondet støttet et prosjekt som så på muligheten for å dyrke søtpotet i Norge. Søtpotet (_Ipomoea batatas_) regnes som en rotgrønnsak på lik linje med jordskokk, og har derfor et bredere bruksområde enn potet (_Solanum tuberosum_). Søtpotet på det norske markedet importeres hovedsakelig fra USA.
 
-I løpet av de siste årene har bruken av søtpotet økt fra noen få tonn per år til en import på hele 4 000 tonn årlig. Grofondet støtter et innovativt prosjekt som undersøker muligheten for å dyrke søtpotet i Norge. Søtpotet _(Ipomoea batatas)_ regnes som en rotgrønnsak på lik linje med jordskokk, og har derfor et bredere bruksområde enn potet _(Solanum tuberosum)._ I dag importeres søtpotet til det norske markedet hovedsakelig fra USA.
+**Formål:**
 
-### Formål
+Å undersøke mulighetene for dyrking av søtpotet i Norge, og å etablere en økonomisk bærekraftig produksjon, inkludert produksjon av friskt settemateriale.
 
-Undersøke mulighetene for dyrking av søtpotet i Norge og utvikle en økonomisk bærekraftig produksjon, inkludert produksjon av friskt settemateriale.
+**Utføring:**
 
-### Utføring
+I 2015 og 2016 ble det foretatt prøvedyrking hos Bjertnæs & Hoel AS basert på importerte småplanter av søtpotet. Også ved Sveriges lantbruksuniversitet (SLU) ble det foretatt prøvedyrking i 2016, og de mente det var gode forutsetninger for dyrking av søtpotet i Norden. Det grunnleggende var å framskaffe plantemateriale/knoller av de sortene som er best tilpasset dyrking i temperert klima. Dette ble gjort ved å kontakte forskningsmiljøer i blant annet Canada og USA, som hadde gjort erfaringer med dyrking på «nordgrensen». Det var viktig å kunne lage friskt og godt plantemateriale for videre dyrking. Man søkte kunnskap om dette hos andre forsknings-, utviklings- og dyrkningsmiljøer og ved studieturer. Da det ikke ville vært hverken miljømessig eller økonomisk bærekraftig å være avhengig av import av småplanter/knoller til en forventet norsk produksjon, ble det gjennomført forsøks- og utviklingsarbeid for rasjonell oppformering av friskt plantemateriale. I praksis betydde dette at det ble dyrket ‘cuttings’ (planteskudd) fra knoller av ulike sorter i veksthus, for deretter å stikke disse i plantebrett, eventuelt rett i jord. For å komme raskt i gang ble det importert planter for gjennomføring av feltforsøk og noe «praktisk dyrking» allerede i 2017. Dyrkingsfaktorer som ikke inngikk i feltforsøk i 2017, som gjødsling, vanning og ugrasrenhold, ble optimalisert i henhold til dyrkingspraksis i andre land. Arbeidet med framskaffelse av frisk plantemateriale og riktige sorter foregikk hovedsakelig ved Norsk institutt for bioøkonomi (NIBIO) Landvik. Utvikling av teknikker for oppformering foregikk også hos Bjertnæs & Hoel AS.
 
-I 2015 og 2016 ble det gjennomført prøvedyrking hos Bjertnæs & Hoel AS basert på importerte småplanter av søtpotet. Sveriges Lantbruksuniversitet (SLU) foretok også prøvedyrking i 2016 og konkluderte med at det er gode forutsetninger for dyrking av søtpotet i Norden.
+**Verdiskapings- og forbrukspotensial:**
 
-Det grunnleggende er å framskaffe plantemateriale/knoller av sorter som er best tilpasset dyrking i temperert klima. Dette oppnås ved å samarbeide med forskningsmiljøer i blant annet Canada og USA, som har erfaring med dyrking nær den nordlige grensen. Det er essensielt å produsere friskt og godt plantemateriale for videre dyrking. Kunnskap om dette hentes fra andre forsknings-, utviklings- og dyrkningsmiljøer samt gjennom studieturer.
+Det ble anslått at 20 prosent av fremtidig forbruk kunne dekkes av norsk produksjon. Ut fra dagens forbruk betydde dette ca. 1000 tonn i året. Når søtpotet i dag betales med kr. 13 per kilo, innebar det et verdiskapingspotensial på 13 millioner kroner per år.
 
-Det er verken miljømessig eller økonomisk bærekraftig å være avhengig av import av småplanter/knoller for forventet norsk produksjon. Derfor må det gjennomføres forsøks- og utviklingsarbeid for rasjonell oppformering av friskt plantemateriale. I praksis betyr dette at det dyrkes “cuttings” (planteskudd) fra knoller av ulike sorter i veksthus, som deretter stikkes i plantebrett eller rett i jord.
-
-For å komme raskt i gang vil det bli importert planter for gjennomføring av feltforsøk og noe “praktisk dyrking” allerede i 2017. Dyrkingsfaktorer som ikke inngår i feltforsøk i 2017, som gjødsling, vanning og ugrasrenhold, vil optimaliseres i henhold til dyrkingspraksis i andre land. Arbeidet med å framskaffe friskt plantemateriale og riktige sorter vil hovedsakelig foregå ved Norsk institutt for bioøkonomi (NIBIO) Landvik. Utvikling av teknikker for oppformering vil også foregå hos Bjertnæs & Hoel AS.
-
-### Verdiskapings- og forbrukspotensialet
-
-Det er realistisk å anslå at 20 prosent av fremtidig forbruk kan dekkes av norsk produksjon. Basert på dagens forbruk tilsvarer dette ca. 1000 tonn i året. Med dagens pris på kr. 13 per kilo, innebærer dette et verdiskapingspotensial på 13 millioner kroner per år.
-
-### Prosjektleder
+**Prosjektleder:**
 
 Erling Stubhaug, NIBIO Landvik
 
-### Prosjektets varighet
+**Prosjektets varighet:**
 
 2017 - 2020
 
-### Foto
+**Foto:**
 
 NIBIO
+```
 
----
-
-### Endringer utført
-
-1. Overskriften ble lagt til for å gi artikkelen en mer strukturert og profesjonell innledning.
-2. Teksten ble delt inn i overskrifter og punktlister for å gjøre den lettere å lese og mer strukturert.
-3. Grammatiske feil og uklare setninger ble korrigert.
-4. Noen setninger ble omformulert for å gjøre teksten mer flytende og profesjonell.
-5. Tilføyde litt variasjon i setningsstruktur for å øke lesbarheten.
-6. Generell forbedring av tonen for å gjøre teksten mer entusiastisk, men fortsatt profesjonell.
+**Endringer:**
+1. Endret teksten til fortid der det var nødvendig.
+2. Justerte grammatikk og setningsstruktur for klarere formidling.
+3. Fjernet noen repeterende ord og uttrykk for å gjøre teksten mer konsis.
+4. Beholdt og justerte Markdown-formatet for å bedre organisere informasjonen.
+5. Forbedret den profesjonelle og entusiastiske tonen uten å være overdrevent.

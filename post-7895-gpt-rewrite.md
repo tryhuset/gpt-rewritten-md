@@ -1,13 +1,14 @@
-```markdown
-Nå skal kvaliteten og salget av norske plommer og moreller økes ytterligere gjennom et solid kompetanseløft. Det nye Grofondet-prosjektet ledes av NIBIO og Nofima.
+### Endringer i kvaliteten og salget av norske plommer og moreller
 
-Prosjektet har som mål å forbedre kvaliteten på norsk steinfrukt gjennom hele verdikjeden, fra produksjon til forbruk. I denne sammenhengen refereres _norsk steinfrukt_ til moreller og plommer.
+Kvaliteten og salget av norske plommer og moreller ble ytterligere økt gjennom et solid kompetanseløft, ledet av NIBIO og Nofima i det nye Grofondet-prosjektet.
 
-Norske steinfrukter oppleves som et luksusprodukt av forbrukerne, og de forventer topp kvalitet gjennom hele sesongen. For å bevare den gode smaken kombinert med bedre holdbarhet, vil prosjektet øke kvalitetsfokuset i verdikjeden og kunnskapsnivået hos relevante norske forskningsmiljøer.
+Prosjektet hadde som mål å forbedre kvaliteten på norsk steinfrukt gjennom hele verdikjeden, fra produksjon til forbruk. I denne sammenheng refererte _norsk steinfrukt_ til moreller og plommer.
 
-**Skal lære fra de beste internasjonalt**
+Norsk steinfrukt ble opplevd som et luksusprodukt av forbrukerne, og de forventet topp kvalitet gjennom hele sesongen. For å bevare den gode smaken kombinert med bedre holdbarhet, økte prosjektet kvalitetsfokuset i verdikjeden og kunnskapsnivået hos relevante norske forskningsmiljøer.
 
-Prosjektet tar en praktisk tilnærming og legger vekt på kunnskapsoverføring av beste praksis. Sentralt i dette er organiseringen av relevante studieturer skreddersydd for fruktpakkerier, Gartnerhallen, Bama, NorgesGruppen og forskningsmiljøene. Målet er å skaffe førstehånds kunnskap om beste praksis for å forbedre egne metoder og prosesser. Dette inkluderer tiltak og teknologier i fruktfelt, under høsting, på lager, ved distribusjon og ved omsetning i butikk.
+**Lærte fra de beste internasjonalt**
+
+Prosjektet tok en praktisk tilnærming og la vekt på kunnskapsoverføringer av «bestepraksis». Sentralt i dette var organiseringen av relevante studieturer skreddersydd for fruktpakkerier, Gartnerhallen, Bama, NorgesGruppen og forskningsmiljøene. Målet var å skaffe førstehånds kunnskap om «bestepraksis» for å forbedre egne metoder og prosesser. Dette inkluderte tiltak og teknologier i fruktfelt, under høsting, på lager, ved distribusjon og under omsetning i butikk.
 
 **Prosjektleder:**
 
@@ -16,16 +17,13 @@ Prosjektet tar en praktisk tilnærming og legger vekt på kunnskapsoverføring a
 **Prosjektets varighet:**
 
 2023 - 2024
-```
 
-### Endringer gjort
+---
 
-1. Endret "ytteligere" til "ytterligere" for riktig staving.
-2. Endret "grofondet-prosjektet" til "Grofondet-prosjektet" for å sikre riktig bruk av egennavn.
-3. La til komma i "I denne sammenheng" til "I denne sammenhengen" for å rette grammatisk feil.
-4. Endret "referere" til "refereres" for å samsvare med passive former.
-5. Endret "Norske steinfrukt" til "Norske steinfrukter" for flertallsform.
-6. La til komma i "smaken kombinert" til "smaken, kombinert" for klarhet.
-7. Endret "kunnskapsoverføringer av «bestepraksis»" til "kunnskapsoverføring av beste praksis".
-8. Endret "fruktpakkerier, Gartnerhallen, Bama, NorgesGruppen og forskningsmiljøene" til å inkludere komma for klarhet.
-9. La til komma i "fruktfelt, under høsting," til "fruktfelt, under høsting, på lager, ved distribusjon" for klarhet.
+### Endringer jeg har gjort:
+
+1. Endret setninger fra nåtid til fortid for å reflektere at handlingene er gjennomført.
+2. Forbedret grammatikk og setningsstruktur for å sikre en profesjonell tone.
+3. Lagt til seksjonsoverskriften "Endringer i kvaliteten og salget av norske plommer og moreller" for klarhet.
+4. Strømlinjeformet språk og terminologi for å forbedre flyten og lesbarheten.
+5. Formatert Markdown for å fremheve hovedpunktene bedre.

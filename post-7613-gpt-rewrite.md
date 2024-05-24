@@ -1,30 +1,28 @@
-## Optimalisering av Smaken i Norske Jordbær
+```markdown
+Norske jordbær ble anerkjent hos forbrukerne på grunn av den gode smaken. Et ønske om mer forutsigbarhet i produksjon og leveranser, lengre sesong og økte avlinger førte til økt interesse for jordbær dyrket i tunneler, samt muligheten til å ta i bruk veksthus og lukkede systemer i substrat. For at norske jordbær skulle konkurrere med importerte bær i vekstsesongen og beholde den høye statusen, var det viktig å ha fokus på kvalitet og smak.
 
-Norske jordbær har en utmerket posisjon blant forbrukere på grunn av sin gode smak. Ønsket om mer forutsigbarhet i produksjon og leveranser, en lengre sesong og økte avlinger har økt interessen for jordbær dyrket i tunneler, samt muligheten til å bruke drivhus og lukkede systemer i substrat. For å sikre at norske jordbær kan konkurrere med importerte bær i vekstsesongen og opprettholde sin høye status, er det essensielt å fokusere på både kvalitet og smak.
+Det var flere faktorer som kunne påvirke smaken: Sortsvalg, gjødsling/vanning, substrat, temperatur og lysforhold.
 
-Flere faktorer kan påvirke smaken, inkludert valg av sort, gjødsling/vanning, substrat, temperatur og lysforhold.
+Prosjektets hovedmål var derfor: Optimalisering av smaken hos norske jordbær dyrket i substrat, med delmålene:
 
-Hovedmålet for prosjektet er å optimalisere smaken av norske jordbær dyrket i substrat. Delmålene inkluderer:
+* Detektere og optimalisere viktige smakspåvirkere i substratdyrking i Norge
+* Anbefale sorter for ulike produksjonsformer i substrat til ulikt klima med høy smakskvalitet
+* Anbefale vann- og gjødselregime med hovedtyngde på kalium og nitrogen for optimalisering av smak ved dyrking under ulike lys- og temperaturforhold
+* Implementere og formidle forskningsresultater til dyrkere og rådgivere
+* Lage en dyrkningsveileder for jordbær i substrat
 
-* Identifisere og optimalisere viktige smakspåvirkere i substratdyrking i Norge.
-* Anbefale sorter for ulike produksjonsformer i substrat tilpasset ulike klimaforhold, med fokus på høy smakskvalitet.
-* Utvikle vann- og gjødselsregimer med hovedfokus på kalium og nitrogen, for optimal smak ved dyrking under forskjellige lys- og temperaturforhold.
-* Implementere og formidle forskningsresultater til dyrkere og rådgivere.
-* Utarbeide en dyrkingsveileder for jordbær i substrat.
+Det ble produsert om lag 8500 tonn norske jordbær i året til en verdi av 432 millioner kr, og det ble importert om lag 9650 tonn bær til en verdi av 427 millioner kr (SSB 2018).
 
-I dag produseres det omkring 8500 tonn norske jordbær årlig, med en verdi på 432 millioner kroner, mens det importeres om lag 9650 tonn bær til en verdi av 427 millioner kroner (SSB 2018).
+Ved å øke den norske andelen med 15 % ville norske jordbær med en kilopris på 50 kr gi et økt verdiskapningspotensial på 102,6 millioner kr per år fra dagens nivå.
 
-Ved å øke den norske andelen med 15 %, vil norske jordbær med en kilopris på 50 kroner bidra til et økt verdiskapningspotensial på 102,6 millioner kroner per år fra dagens nivå.
+Det var NIBIO ved Anne Linn Hykkerud som ledet prosjektet. Med seg hadde hun flere anerkjente forskere både fra NIBIO, Njøs frukt- og bærsenter og Universitetet i Turku. NLR, Norgro, Gartnerhallen, Bama og Avisomo bidro også med kompetanse inn i prosjektet.
 
-Prosjektet ledes av Anne Linn Hykkerud ved NIBIO, og hun jobber sammen med flere anerkjente forskere fra NIBIO, Njøs frukt- og bærsenter og Universitetet i Turku. I tillegg vil NLR, Norgro, Gartnerhallen, Bama og Avisomo bidra med sin kompetanse i prosjektet.
+Grofondet ga tilsagn på 2,4 millioner kr som egenandel til dette prosjektet, som skulle videre søkes til FFL/JA med en totalramme på 12,65 millioner kr over 4 år. Grofondet ønsket lykke til med hovedsøknaden.
+```
 
-Grofondet har bevilget 2,4 millioner kroner som egenandel til dette prosjektet, som vil søke videre finansiering fra FFL/JA med en total ramme på 12,65 millioner kroner over 4 år. Grofondet ønsker lykke til med hovedsøknaden.
-
----
-
-### Endringer gjort:
-1. Tittelen lagt til for å bedre struktur og oversikt.
-2. Endret ordbruk og setningsstruktur for å skape en mer flytende og profesjonell tone.
-3. Forklart noen av punktene mer presist for klarere forståelse.
-4. Lagt til avsnitt og formatert tekst som lister for bedret lesbarhet.
-5. Justert og modernisert språkbruk for økt leseropplevelse.
+### Endringer som ble gjort:
+1. Endret handlingene til fortid for å reflektere at de har skjedd.
+2. Strammet opp setningsstruktur for økt lesbarhet og profesjonell tone.
+3. Justert tegnsetting for klarhet.
+4. Tilført enkelte markører som «var» og «ble» for å forankre teksten i fortiden.
+5. Beholdt og forbedret prosjektdelene for bedre flyt og klarhet.

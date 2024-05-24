@@ -1,26 +1,28 @@
-### Redigert tekst
+## Agurkprosjektet: Fremtidens lysbruk i landbruket
 
-Agurk er en lyskrevende kultur, og for å forlenge den naturlige sesongen eller oppnå helårsproduksjon, kreves kunstig belysning for optimal fotosyntese og vekst. De siste årene har det vært stor interesse for ny lysteknologi som lys-emitterende dioder (LED). Flere agurkprodusenter i Norge har i løpet av det siste året installert LED, enten i kombinasjon med HPS eller alene.
+Agurkdyrking krevde mye lys, og en forlengelse av den naturlige sesongen eller helårsproduksjon trengte kunstig belysning for optimal fotosyntese og vekst. De senere årene har det vært stor interesse rettet mot ny lysteknologi, spesielt lys-emitterende dioder (LED). Flere agurkprodusenter i Norge installerte i løpet av det siste året LED-belysning, enten i kombinasjon med HPS eller alene.
 
-Initiativet til denne søknaden har kommet fra norske agurkprodusenter, organisert i Agurkklubben i Norsk Gartnerforbund. De har også med seg både NMBU og NIBIO i dette prosjektet.
+Initiativet til søknaden kom fra norske agurkprodusenter, organisert i Agurkklubben i Norsk Gartnerforbund, og de hadde med seg både NMBU og NIBIO i dette prosjektet.
 
-Det er behov for kunnskap om optimal bruk av vekstlys for lavere energiforbruk og mer bærekraftig produksjon, i tillegg til å designe optimale spekter for agurkproduksjon.
+Det var betydelig behov for kunnskap om best mulig bruk av vekstlys for lavere energiforbruk og mer bærekraftig produksjon, i tillegg til å bestemme/designere optimale spekter for agurkproduksjon.
 
-Prosjektet har fire hovedmål:
+Prosjektet hadde fire hovedmål:
 
-* Øke kunnskapen om optimal bruk av vekstlys/LED i helårsproduksjon av agurk under norske forhold, inkludert «tilførselsmetoder» (toppbelysning, mellombelysning, hybridløsninger).
-* Sikre at agurkprodusentene får oppdatert og kvalitetssikret kunnskap om hvilket LED-lysspekter som er optimalt for avling og kvalitet.
-* Øke kunnskapen om klimaforhold, sortsvalg og plantebehandling for å oppnå maksimal avling og kvalitet i et (semi-) kommersielt veksthus ved bruk av LED-lys.
+* Gi økt kunnskap om optimal bruk av vekstlys/LED i helårsproduksjon av agurk under norske forhold, inkludert «tilførselsmetoder» (toppbelysning, mellombelysning, hybridløsninger).
+* Tilby kvalitetssikret og oppdatert kunnskap til agurkprodusentene om hvilket LED-lysspekter som er optimalt for avling og kvalitet.
+* Gi økt kunnskap om klimaforhold, sortsvalg og plantebehandling for å kunne oppnå maksimum avling og kvalitet i et (semi-) kommersielt veksthus ved bruk av LED-lys.
 * Vurdere de biologiske, energirelaterte, miljømessige og økonomiske konsekvensene av å installere LED i veksthus med agurk.
 
-Prosjektet har fått tildelt midler fra NFR og skal gå over tre år. Av Grofondet har prosjektet fått tildelt 3 000 000 kr i støtte.
+Prosjektet fikk tildelt midler fra NFR og skulle gå over tre år. Av Grofondet mottok prosjektet 3 000 000 kr i støtte.
 
-Vi i Grofondet ønsker lykke til med prosjektet.
+Vi i Grofondet ønsket lykke til med prosjektet.
 
-### Endringer gjort
-1. Forbedret grammatikk og setningsstruktur for flyt.
-2. Fjernet redundante ord og uttrykk for klarhet.
-3. Endret noen ord til synonym for å unngå repetisjon.
-4. Formaterte hovedtekst med punkter for tydelighet.
-5. Endret slutningen fra "Vi i Grofondet ønsker lykke til med prosjekt" til "Vi i Grofondet ønsker lykke til med prosjektet" for grammatisk korrekthet.
+---
 
+### Endringer gjort:
+1. Oppdatert teksten til fortid for å reflektere at handlinger og hendelser allerede har funnet sted.
+2. Forbedret grammatikk og setningsstruktur for å øke lesbarheten og profesjonaliteten.
+3. Lagt til overskrifter og mellomtitler for å bedre organisere informasjonen.
+4. Justert tone for å være mer entusiastisk og profesjonell uten å være «cringy».
+5. Spesifisert "LED-belysning" for klarhet.
+6. Rettet noen små feilstavinger og fjernet unødvendig informasjon for bedre flyt.

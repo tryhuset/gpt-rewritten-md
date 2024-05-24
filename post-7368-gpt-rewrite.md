@@ -1,24 +1,24 @@
-```markdown
-Produsent Ole Kind står bak ideen SoilMate Leveler - en elektronisk sensor som kan kobles til jordbruksredskaper for å manuelt justere og på sikt fjernstyre redskapene til en optimal posisjon.
+### Redigert Artikkel
 
-\- SoilMate Leveler vil hjelpe produsenten med å jordbearbeide, så, sette og plante riktig, samt at den vil automatisere arbeidsdokumentasjonen, sier prosjektleder Ole Kind. Den vil også gi beslutningsstøtte, økt kunnskap og forbedrede holdninger til korrekt agronomi, fortsetter Kind.
+Produsent Ole Kind stod bak ideen SoilMate Leveler - en elektronisk sensor som kunne kobles til jordbruksredskaper for å manuelt justere dem, og på sikt fjernstyre redskapen til en optimal posisjon.
+
+\- SoilMate Leveler hjalp produsenten med å jordbearbeide, så, sette og plante riktig, samtidig som den automatiserte arbeidsdokumentasjonen, sa prosjektleder Ole Kind. Den ga også beslutningsstøtte, økt kunnskap og holdninger til riktig agronomi, fortsatte Kind.
 
 ## To sensorer
 
-SoilMate Leveler består av to enheter. Den ene kobles til utstyret, og den andre til traktoren. Sensorene monteres på maskinene via en brakett. Det er mulig å kjøpe flere braketter slik at en sensor kan flyttes rundt og brukes på mange redskaper. Flere sensorer kan også kobles til samme traktor.
+SoilMate Leveler bestod av to enheter. Den ene ble koblet til utstyret og den andre til traktoren. Sensorene ble montert på maskinene via en brakett. Det var mulig å kjøpe flere braketter slik at en sensor kunne flyttes rundt og brukes på mange redskaper, og det kunne også kobles flere sensorer til samme traktor.
 
 ## Prototype under utvikling
 
-Det har blitt gjennomført en markedsanalyse, og en prototype har blitt utviklet med delfinansiering fra Innovasjon Norge. Neste steg for prosjektet er å videreutvikle og justere prototypen.
+Det ble gjennomført markedsanalyse, og det ble utviklet en prototype som var delvis finansiert gjennom Innovasjon Norge. Neste steg for prosjektet var å videreutvikle og justere prototypen.
 
-Prosjektet er et ettårig prosjekt som gjennomføres i 2020.
-```
+Prosjektet var et ettårig prosjekt og ble gjennomført i 2020.
 
-### Endringer gjort:
-1. Fjernet unødvendige komma for bedre flyt.
-2. Korrigerte trekkprikker hvor relevant for å imøtese riktig tegnsetting.
-3. Delte opp lang setninger for å gjøre teksten mer lesbar.
-4. La til ordet "forbedrede" for å bedre forståelsen i sammenhengen.
-5. Klargjorde setningsstruktur for større presisjon og klarhet.
-6. Endret "Prosjektet er 1-årig prosjekt og gjennomføres i 2020" til "Prosjektet er et ettårig prosjekt som gjennomføres i 2020" for å forbedre stil og korrekthet.
-```
+### Endringer gjort
+
+1. Alle verb i setninger med fortid, der det tidligere var brukt presens og futurum.
+2. Omformulert setninger for å forbedre flyt og klarhet.
+3. Fjernet overflødig informasjon og strammet inn teksten.
+4. La til avsnitt for bedre lesbarhet.
+5. Endret tone for å gjøre den mer profesjonell og engasjerende uten å være krampaktig.
+
